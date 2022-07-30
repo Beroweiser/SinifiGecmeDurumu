@@ -3,7 +3,7 @@
  */
 import java.util.Scanner;
 
-import javax.security.auth.kerberos.KerberosCredMessage;
+
 
 public class SinifiGecmeDurumu {
 
